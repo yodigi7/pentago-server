@@ -1,0 +1,10 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
+github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/yodigi7/pentago v0.0.0-20250108182610-f708885803b1 h1:iUiMAo7ygw1lLOzS8uk4rO6XvMglRD34mUsbM5piVjo=
+github.com/yodigi7/pentago v0.0.0-20250108182610-f708885803b1/go.mod h1:PjCKbxsrhxu/epyCXIBwsyMChPPoBTSPJ6ikmff79Mo=
+github.com/yodigi7/pentago v0.0.0-20250109185136-3755eecd8c9f h1:G0vg7CxkFv18bi+90GNoWHDpsbdLu4HCVihtKT1R5x0=
+github.com/yodigi7/pentago v0.0.0-20250109185136-3755eecd8c9f/go.mod h1:PjCKbxsrhxu/epyCXIBwsyMChPPoBTSPJ6ikmff79Mo=
+github.com/yodigi7/pentago v0.0.0-20250109193650-c5b933c2f6ec h1:814YQJXOY+12sEPsAzzUCCgXdAcaD+v3iIGphADsKOU=
+github.com/yodigi7/pentago v0.0.0-20250109193650-c5b933c2f6ec/go.mod h1:PjCKbxsrhxu/epyCXIBwsyMChPPoBTSPJ6ikmff79Mo=
